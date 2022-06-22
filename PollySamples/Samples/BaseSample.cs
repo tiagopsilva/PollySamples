@@ -46,7 +46,7 @@ namespace PollySamples.Samples
 
         protected virtual void PrintHelpText()
         {
-            // optional implemtation
+            // optional implementation
         }
 
         private void ResetCounters()
